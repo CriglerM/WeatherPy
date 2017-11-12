@@ -1,0 +1,22 @@
+cityName,country,lat,lng,temp,humidity,cloudiness,winds,url
+riyadh,sa,24.69,46.72,62.6,59,0,6.93,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=riyadh
+det udom,th,14.91,105.08,87.8,62,40,4.7,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=det udom
+dikson,ru,73.51,80.55,15.18,100,64,4.85,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=dikson
+sumbawa,id,-8.5,117.43,82.23,99,68,2.39,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=sumbawa
+udachnyy,ru,66.42,112.4,-0.17,73,80,3.85,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=udachnyy
+norman wells,ca,65.28,-126.83,6.8,84,90,3.36,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=norman wells
+barrow,us,71.29,-156.79,24.8,100,90,23.04,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=barrow
+kalmunai,lk,7.42,81.82,85.47,74,36,12.12,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=kalmunai
+boa vista,br,2.82,-60.67,80.6,78,75,5.82,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=boa vista
+yellowknife,ca,62.46,-114.35,12.2,78,90,16.11,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=yellowknife
+sonoita,mx,31.85,-112.83,54.33,79,0,2.62,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=sonoita
+ambalavao,mg,-21.83,46.93,72.74,68,68,3.4,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=ambalavao
+sainte-suzanne,re,-20.91,55.61,80.6,74,75,5.82,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=sainte-suzanne
+jamestown,sh,42.1,-79.24,26.01,53,1,9.17,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=jamestown
+lorengau,pg,-2.02,147.27,84.93,100,12,7.65,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=lorengau
+ouegoa,nc,-20.35,164.43,78.63,62,32,8.43,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=ouegoa
+punta arenas,cl,-53.15,-70.92,42.8,100,40,5.82,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=punta arenas
+puri,in,19.8,85.85,84.2,51,0,10.29,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=puri
+east london,za,-33.02,27.91,68.0,82,0,6.93,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=east london
+bredasdorp,za,-34.53,20.04,62.6,82,20,6.93,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=bredasdorp
+achim,de,53.01,9.03,36.77,93,0,6.93,http://api.openweathermap.org/data/2.5/weather?appid=1f323a67a9d7e0b3e5f4cbeb9958dcd6&units=imperial&q=achim

@@ -1,18 +1,4 @@
-# What's the Weather Like?
-Homework Week 6 - WeartherPy
 
-This assignment uses Python libraries, the OpenWeatherMap API to create a representative model of weather across world cities and build a series of scatter plots to showcase relationship between latitude and several weather observations such as temperature, humidity, cloudiness and wind speed.
-
-* Observations
-    * One 
-    * Two
-    * Three 
-
-
-## Python WeatherPy Markdown
-
-
-![png](output_29_0.png)
 
 ```python
 #Dependencies
